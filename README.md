@@ -1,7 +1,6 @@
-# Utopia_tech_task1 
+# Login system using JWT and Refresh tokens
 
 Description:
-Your task is to implement Signup and login with JWT (Access and Refresh tokens)
 
 1. User can signup new account with personal login & password
 2. User can login with personal login & password, server returns response with Access token and Refresh to-
